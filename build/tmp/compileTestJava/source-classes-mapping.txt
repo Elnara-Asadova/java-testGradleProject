@@ -1,0 +1,8 @@
+SimpleClassTest.java
+ SimpleClassTest
+SeveralTestGroups.java
+ SeveralTestGroups
+PrioritizedTest.java
+ PrioritizedTest
+ParameterizedTest.java
+ ParameterizedTest

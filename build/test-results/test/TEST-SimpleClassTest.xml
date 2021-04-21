@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleClassTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-18T16:08:38" hostname="Elnara.Asadova" time="0.0">
+  <properties/>
+  <testcase name="theAnotherTest" classname="SimpleClassTest" time="0.0"/>
+  <testcase name="theOneTest" classname="SimpleClassTest" time="0.0"/>
+  <system-out><![CDATA[setupSimpleClassTest
+setupTestMethod
+theAnotherTest
+teardownTestMethod
+setupTestMethod
+theOneTest
+teardownTestMethod
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

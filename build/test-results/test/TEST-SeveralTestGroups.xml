@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeveralTestGroups" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-18T16:08:38" hostname="Elnara.Asadova" time="0.002">
+  <properties/>
+  <testcase name="excludedTest" classname="SeveralTestGroups" time="0.001"/>
+  <testcase name="groupDependencyTest" classname="SeveralTestGroups" time="0.0"/>
+  <testcase name="groupTestOne" classname="SeveralTestGroups" time="0.0"/>
+  <system-out><![CDATA[Excluded Test
+groupDependency test which should be run before groupTest
+setupGroupTest
+groupTestOne
+teardownGroupOne
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
